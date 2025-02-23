@@ -1,11 +1,11 @@
 # Autor: Jorge Ivan Gomez Restrepo
 #### https://www.linkedin.com/in/jorgeivan-gomez/
 ##### ------------------------------------------------------------------------------------------------------
-# Curso Automation screenplay basic
+# Punto 2 Automatización.
 ##### ------------------------------------------------------------------------------------------------------
 
 #### Pagina automatizada: https://www.saucedemo.com/v1/
-#### Funciones automatizadas: ID CARD ELEMENTS
+#### Funciones automatizadas: Products - Your Cart - Checkout
 #### Patron de diseño: Screenplay
 #### Framework: gherkin, cucumber, Junit, SerenityBDD, selenium
 #### Framework adicionales: librerias lombok, Faker, SonarLink, cucumber for java
@@ -17,7 +17,6 @@
 ##### ------------------------------------------------------------------------------------------------------
 
 ### Todos los casos pruebas cumplen con cada criterio solicitado
-### Todas las clases estan con auto-ident lines y reformat code
 ### El codigo no tiene ningun Bug o codeSmell
 ##### ------------------------------------------------------------------------------------------------------
 # PASOS PARA LA EJECUCIÓN
